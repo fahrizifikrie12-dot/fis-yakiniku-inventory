@@ -1,0 +1,18 @@
+# Python specific ignore patterns
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Other common Python development files
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
